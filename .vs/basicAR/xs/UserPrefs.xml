@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{51551CF2-3EDD-8137-051B-C7F65D63B080}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlaceObjectOnPlane.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlaceObjectOnPlane.cs" Line="21" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="basicAR" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="PlaceObjectOnPlane.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5ab1c89b-a1e6-408d-bcc3-083994e5cf67" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
